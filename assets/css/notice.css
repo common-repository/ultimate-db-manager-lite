@@ -1,0 +1,35 @@
+.ultimate-notice-container{
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    background-color: #f7f7f7;
+    border: 2px solid #0074a2;
+}
+
+.ultimate-notice-container .ultimate-notice-actions {
+    padding-top: 10px;
+}
+
+.ultimate-notice-container .ultimate-notice-actions .ultimate-notice-button{
+    margin-right: 5px;
+}
+
+.ultimate-notice-container h4{
+    font-size: 18px;
+    margin: 0px 0px 10px 0px;
+}
+
+.ultimate-notice-logo img {
+    position: absolute;
+    top: 85px;
+    left: 20px;
+    width: 90px;
+    height: 90px;
+}
+
+.ultimate-notice-inner-wrapper {
+    min-height: 90px;
+    padding-left: 110px;
+    background: url("../images/buy.png") no-repeat top left;
+}
